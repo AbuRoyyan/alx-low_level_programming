@@ -22,3 +22,4 @@ a -= size;
 }
 printf("%d, %d\n", sum1, sum2);
 }
+
