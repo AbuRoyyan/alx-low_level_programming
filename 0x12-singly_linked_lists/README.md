@@ -1,1 +1,1 @@
-## 0x12-singly_linked_lists
+## 0X12-SINGLY_LINKED_LISTS
